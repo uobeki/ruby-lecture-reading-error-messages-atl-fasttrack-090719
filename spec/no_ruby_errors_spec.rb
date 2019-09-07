@@ -1,5 +1,5 @@
 describe "Not having any errors and being all green" do
-
+end
   context 'NameError' do
     it 'raises a NameError when encountering undefined barewords' do
       expect{
